@@ -17,14 +17,14 @@ The slope of the linear model can not be considered to be zero, as the p-value o
 Although there are still unconsidered factors, this model does predict the mpg of the MechaCar prototype with some relative effectiveness. The r-squared value of 0.7149, indicates that the model is 71% accurate.
 
 
-2.Summary Statistics on Suspension Coils
+2. Summary Statistics on Suspension Coils
 
 ![image](https://user-images.githubusercontent.com/109991916/203139440-f2efd4ea-32ed-4828-ac01-229093bb2fb4.png)
 ![image](https://user-images.githubusercontent.com/109991916/203139655-a95ce09f-3d93-4304-97fe-d513bce9eb6c.png)
 
 While the overall variance, as shown in the Total Summary data above, is under 100 psi and meets specifications,one of the individual lots does not meet the necessary specifications. As shown in the Lot Summary stats, the variance for Lot 3 is well over the acceptable threshold, at 170.28.
  
-3.T-Tests on Suspension Coils
+3. T-Tests on Suspension Coils
 ![image](https://user-images.githubusercontent.com/109991916/203141564-6dc31ceb-5ac2-412b-b0ae-d8bad77c03a2.png)
 
 Results of the T-test for the suspension coils across all manufacturing lots shows that they are not statistically different from the population mean, and the p-value is not low enough (0.0603) for us to reject the null hypothesis.
