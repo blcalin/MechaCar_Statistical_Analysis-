@@ -18,9 +18,9 @@ Although there are still unconsidered factors, this model does predict the mpg o
 
 
 2.Summary Statistics on Suspension Coils
-
 ![image](https://user-images.githubusercontent.com/109991916/203139440-f2efd4ea-32ed-4828-ac01-229093bb2fb4.png)
 ![image](https://user-images.githubusercontent.com/109991916/203139655-a95ce09f-3d93-4304-97fe-d513bce9eb6c.png)
+
 While the overall variance, as shown in the Total Summary data above, is under 100 psi and meets specifications,one of the individual lots does not meet the necessary specifications. As shown in the Lot Summary stats, the variance for Lot 3 is well over the acceptable threshold, at 170.28.
  
 3.T-Tests on Suspension Coils
